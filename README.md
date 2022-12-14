@@ -1,4 +1,4 @@
 # hello-world
 Practica 3 m08
-Pues nada aquí, cambiando el código para el tutorial de w3schools :P . 
-Jeje sí.
+Última practica del modulo de "Aplicaciones Web" (m08) de la segunda unidad formativa "Gestores de archivos web".
+Joel Cornellà Ruiz
